@@ -12,7 +12,7 @@ No installation is required for the utilization of the site.
 
 Upon opening the webpage, the user can add text to the time blocks and save to local storage. The time block's colors correspond to the time of day.
 
-    ![Screenshot](assets/images/Screenshot.png)
+md [Screenshot](./assets/images/Screenshot.png)
 
 Link to webpage: https://lhwood.github.io/WorkSch-3rdPartyAPIs/
 
